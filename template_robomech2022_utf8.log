@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.8.3-u1.26-191112-2.6 (utf8.uptex) (TeX Live 2020) (preloaded format=uplatex 2020.7.18)  28 FEB 2022 13:50
+This is e-upTeX, Version 3.14159265-p3.8.3-u1.26-191112-2.6 (utf8.uptex) (TeX Live 2020) (preloaded format=uplatex 2020.7.18)  28 FEB 2022 16:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -170,23 +170,22 @@ File: ./src/srt_example.pdf Graphic file (type pdf)
 <./src/srt_example.pdf>
  [2]
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 139.
+(Font)              scaled to size 7.69775pt on input line 149.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 139.
+(Font)              scaled to size 7.69775pt on input line 149.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 140.
+(Font)              <8> on input line 150.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 140.
+(Font)              <6> on input line 150.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 140.
- [3]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 207.
+(Font)              scaled to size 5.77332pt on input line 150.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 217.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 207.
- [4
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 217.
+ [3] [4
 
 ] (./template_robomech2022_utf8.aux) ) 
 Here is how much of TeX's memory you used:
@@ -198,4 +197,4 @@ Here is how much of TeX's memory you used:
  929 hyphenation exceptions out of 8191
  30i,14n,25p,1523b,369s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on template_robomech2022_utf8.dvi (4 pages, 41976 bytes).
+Output written on template_robomech2022_utf8.dvi (4 pages, 41524 bytes).

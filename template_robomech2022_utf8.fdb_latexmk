@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1646023846 "template_robomech2022_utf8.dvi" "template_robomech2022_utf8.pdf" "template_robomech2022_utf8" 1646023847
-  "template_robomech2022_utf8.dvi" 1646023846 41976 07021005a8259f0bdcee755e555b17fb "latex"
+["dvipdf"] 1646032167 "template_robomech2022_utf8.dvi" "template_robomech2022_utf8.pdf" "template_robomech2022_utf8" 1646032599
+  "template_robomech2022_utf8.dvi" 1646032167 41524 5721c8faa3d8f736d750f027f0f7def2 "latex"
   (generated)
   "template_robomech2022_utf8.pdf"
-["latex"] 1646023845 "template_robomech2022_utf8.tex" "template_robomech2022_utf8.dvi" "template_robomech2022_utf8" 1646023847
+["latex"] 1646032166 "template_robomech2022_utf8.tex" "template_robomech2022_utf8.dvi" "template_robomech2022_utf8" 1646032599
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm" 1136768653 1536 c4f439db76ef96a9c53bc437f35ffe20 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -36,13 +36,13 @@
   "/usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf" 1583102494 39451 60d7debd9ef8ece44cbe965493576c2d ""
   "/usr/local/texlive/2020/texmf-var/web2c/euptex/uplatex.fmt" 1595066872 2444645 0bc16285982580de2c23ba4ea7502c9e ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "robomech2022.sty" 1634284872 10262 2670a87a5790d0f2a0524de43103710d ""
+  "robomech2022.sty" 1646031663 10245 e5e885b7388eaab17596ad6d501afd54 ""
   "src/Implemented_system.pdf" 1645789730 85754 2f5d5fc06c646f6ee51c34286d162b07 ""
   "src/Proposal_system_ab.pdf" 1645790433 125529 290b04e703eda77c2d4a4cde582f17e1 ""
   "src/srt_example.pdf" 1645785373 36571 7950aad9fecc4c01f6c86b275f3945f1 ""
-  "template_robomech2022_utf8.aux" 1646023846 1939 95a4b88aa1d75cc0ab5b18c460b6d928 "latex"
-  "template_robomech2022_utf8.tex" 1646023845 28683 66a4d6914a4c9d84be9aa3665a3f9271 ""
+  "template_robomech2022_utf8.aux" 1646032167 1939 92e4fce3a4d4dabb4bc83cce5b3313d8 "latex"
+  "template_robomech2022_utf8.tex" 1646032599 28334 109689657f66aede5c38c419dfce2dcb ""
   (generated)
-  "template_robomech2022_utf8.log"
   "template_robomech2022_utf8.dvi"
   "template_robomech2022_utf8.aux"
+  "template_robomech2022_utf8.log"
